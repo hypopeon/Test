@@ -24,7 +24,7 @@ export default class Test extends React.Component<ITestProps> {
         <div>
           <h3>Welcome to Merit</h3>
           <p>
-            The SharePoint Framework (SPFx) is a extensibility model for Microsoft Viva, Microsoft Teams and SharePoint. It&#39;s the easiest way to extend Microsoft 365 with automatic Single Sign On, automatic hosting and industry standard tooling.
+            The SharePoint Framework (SPFx) is a extedddddnsibility model for Microsoft Viva, Microsoft Teams and SharePoint. It&#39;s the easiest way to extend Microsoft 365 with automatic Single Sign On, automatic hosting and industry standard tooling.
           </p>
           <h4>Learn more about SPFx development:</h4>
           <ul className={styles.links}>
